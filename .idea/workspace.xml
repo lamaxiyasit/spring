@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1404f7e2-d1b4-4a47-8b31-4e0b995a87a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZhQLNhwEPoWNPyopxIOuZpLXl9" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1404f7e2-d1b4-4a47-8b31-4e0b995a87a9" name="Default Changelist" comment="" />
+      <created>1585288788126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585288788126</updated>
+      <workItem from="1585288789432" duration="534000" />
+      <workItem from="1585289329819" duration="16000" />
+      <workItem from="1585289462378" duration="26000" />
+      <workItem from="1585289511280" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="139" key="FileChooserDialogImpl" timestamp="1585289318733">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="139" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1585289318733" />
+    <state x="336" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1585289512546">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="336" y="209" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1585289512546" />
+  </component>
+</project>

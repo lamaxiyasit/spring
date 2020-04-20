@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c467989-f2be-4459-9844-982d18c358d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4D5Hm0CwbWAYQkZvcTIduzIy5" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/cjh/dao/IAccountDao.java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/com/cjh/dao/IAccountDao.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cjh" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cjh" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\aop\src\main\java\com\itheima\service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.test">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cjh.AccountTest" />
+      <module name="aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cjh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="aop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cjh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cjh" />
+      <option name="MAIN_CLASS_NAME" value="com.cjh.test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.test" />
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c467989-f2be-4459-9844-982d18c358d4" name="Default Changelist" comment="" />
+      <created>1585985705961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585985705961</updated>
+      <workItem from="1585985707456" duration="56000" />
+      <workItem from="1585985790514" duration="9000" />
+      <workItem from="1585987460575" duration="9295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="42" key="#Project_Structure" timestamp="1585987749154">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="42" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1585987749154" />
+    <state x="446" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1585992216930">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="446" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1585992216930" />
+    <state x="407" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585988385542">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="407" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.760@0.0.1280.760" timestamp="1585988385542" />
+    <state x="429" y="247" width="421" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585990500499">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="429" y="247" width="421" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.760@0.0.1280.760" timestamp="1585990500499" />
+    <state width="427" height="455" key="DebuggerActiveHint" timestamp="1585991498328">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="427" height="455" key="DebuggerActiveHint/0.0.1280.760@0.0.1280.760" timestamp="1585991498328" />
+    <state x="93" y="93" width="1093" height="573" key="DiffContextDialog" timestamp="1585990617327">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="93" y="93" width="1093" height="573" key="DiffContextDialog/0.0.1280.760@0.0.1280.760" timestamp="1585990617327" />
+    <state x="421" y="139" key="FileChooserDialogImpl" timestamp="1585996979625">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="139" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1585996979625" />
+    <state width="1238" height="236" key="GridCell.Tab.0.bottom" timestamp="1585997050140">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1585997050140" />
+    <state width="1238" height="236" key="GridCell.Tab.0.center" timestamp="1585997050140">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1585997050140" />
+    <state width="1238" height="236" key="GridCell.Tab.0.left" timestamp="1585997050140">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1585997050140" />
+    <state width="1238" height="236" key="GridCell.Tab.0.right" timestamp="1585997050140">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1585997050140" />
+    <state width="1238" height="236" key="GridCell.Tab.1.bottom" timestamp="1585997050140">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1585997050140" />
+    <state width="1238" height="236" key="GridCell.Tab.1.center" timestamp="1585997050140">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1585997050140" />
+    <state width="1238" height="236" key="GridCell.Tab.1.left" timestamp="1585997050140">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1585997050140" />
+    <state width="1238" height="236" key="GridCell.Tab.1.right" timestamp="1585997050140">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1585997050140" />
+    <state x="336" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1585985791234">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="336" y="209" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1585985791234" />
+    <state x="6" y="85" key="new project wizard" timestamp="1585997049695">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="6" y="85" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1585997049695" />
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup" timestamp="1585995467977">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1585995467977" />
+    <state x="364" y="299" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585987478711">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="364" y="299" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.760@0.0.1280.760" timestamp="1585987478711" />
+  </component>
+</project>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4d58ed3-3c31-4c44-9b3b-6b26e958c3b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQGLS8u4UAg8Xuzw4a9ecGEcBX" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.dao.impl" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ui.Client" />
+      <module name="day02_eesy_01anno_ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4d58ed3-3c31-4c44-9b3b-6b26e958c3b4" name="Default Changelist" comment="" />
+      <created>1584763848214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584763848214</updated>
+      <workItem from="1584763850860" duration="7190000" />
+      <workItem from="1584852424526" duration="265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="42" key="#Project_Structure" timestamp="1584763925438">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="42" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1584763925438" />
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1584771164849">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1584771164849" />
+    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1584771164849">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1584771164849" />
+    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1584771164849">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1584771164849" />
+    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1584771164849">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1584771164849" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1584852444065">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1584852444065" />
+    <state x="336" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1584763851492">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="336" y="209" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1584763851492" />
+    <state x="6" y="88" key="new project wizard" timestamp="1584771164769">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="6" y="88" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1584771164769" />
+    <state x="345" y="74" key="spring file set editor" timestamp="1584852442522">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="345" y="74" key="spring file set editor/0.0.1280.760@0.0.1280.760" timestamp="1584852442522" />
+  </component>
+</project>
